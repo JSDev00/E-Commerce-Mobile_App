@@ -1,6 +1,6 @@
 # E-Commerce-Mobile_App
 
-<img src="https://i.ytimg.com/vi/QYlEOxCfErg/maxresdefault.jpg">
+![Image](https://cdn.dribbble.com/userupload/12677740/file/original-8bc2955c6e88a7401ec8ca6fc061cf91.png?resize=1600x891)
 
 <h2>Get Started</h2>  
 <p>install dev dependencies</p>
